@@ -31,7 +31,7 @@ public class HelloControllerTest {
     @Test
     public void testHello() throws Exception {
         when().get("/").then()
-                .body(is("Hello World!"));
+                .body(is("Hello Spring Boot World From Allen Kim!"));
     }
 
     @Test
