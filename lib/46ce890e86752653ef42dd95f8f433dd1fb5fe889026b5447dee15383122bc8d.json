@@ -1,0 +1,246 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 7,
+      "minor": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "RaBACkoAmdNoMqm600WglQKA1q/kRJTZmyvSGibTTSj2yDkH/96QoUOfo3jXJh1+DAf/ofq9Qssv6LTDty1T35T82SODegVhWPjm5h0hbgBupM8uqfqi/sBPan1G0aEDrorazUFSVvbmQamrnhX+Wh3ERm36/WsNuVxdm4zDU3M7fiIMsr5Od8aKhAeANCF+oogCfbQux8iMIpWcyQ6js3wsm4gcqCnJiGU/iXAtlwYMdH9oXt5n+OektOXkiZVmp/t8CwDBoaN8UItkBlO5UddXpp09QcyaWMe4begnTMmX633X3SXYUAVjdSW3d1X7Nw+DwnzZWxLh3zYfUKd7Xs/p7wFBPjI4hTDEZxqyxr/9XTe5+1WfrlMHMXpTLhgviq9l8a+qxxg7ORGGD58HDve+KGOGjCALXUOEmclEOsqjY1zSvGQIxK9FEh2agD6nAw5JUR5SqrDmjQPskijqX911vXPotme+MLofCxmtDAhQXmgHPoNYgZhIu1dN1Wq6qL9qMSvcuNEstEXrcd65Ko+RKS9p9R/anZXOhf55fBLEK9rLiiXGos1Uo3/W+wsQeU4+1DxpZSrUU2FSgjHK01TtZdMV8KglKTWeaaet7NDiPTJLTJT6dz98iqujWj/R2K0wEyzEqC4TYbCJO1Vq1j0UCFx2FM3mIBFvJjOc97U="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "bpSxpAerISEd0Ilp5ntY3Awr+Q5FcydsDXvxpg24+j3+evFEecMosRgekSqGvbVHuxoRjT6Qpk1bMrdxVQLMNf5w84N6HYbMQQnjvSN4CQhEX6m4T/2zj0lOLIMeLk19e/SZNcP/0NiHnfu3mB8bpCtemtaaeWjsygWUxqDKPFC0//4o4DpxFr8cmrFXeFRPDTr80GLBhEcT+sxF62ZVLmdOzxD8wMkERmx9Nx+kj7O2Q+fiJ5yWK9bXE9mFGwB9/SUWxX3BOqekiGeZasOaschJITgOfm5s6tn9U49Eq2dpX1PgEXJlHGWOKdbc2+YwnDvc7OyGNtm3CrIathKi9GhP1SY6/QHGJ6gph7sBFay1973hK8i17zOAjwp8Vx7zclltWW7BLmCUvZx2qwdQ1Xh1lwDwAIWNSrAMLQxLhxefqYcN4WfMqtfzBoaWS+noAkm8j4QE4092z+7cwhTJ3WtZPM1oS3grznONs3YrYD1d3qTjPWUQYnJXuNhWMuTPn2TiQNDOzzSt2JQaIPTvu3+Qt2LRBOMMCHmqa+AMZWLVeSis2xkTSoUbX0TiSAkhJc3HAjChET4mXLt/seRuYXonS6UJiqhWIICeZH7ojL4ZvO/TP9JEtV+1vzMme/cewuAUzl9OK2IxuvkhLCWSiVqRJXraYGVfVpYHAPdtB88="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "O4Yx07/rTR4hwd9ZlKrspttHKExr9+waLBwtRAQUcOe0oj3j9e3AI+YR3GhRIQD4bp6SJFp6h0T/hT9rAH6xNb2dMLPFZQxfV5z1EvzPxIJIkbHHgDhnpebofDWtBP3gM4e0Go7uysDp80VJFbIFSlqduTOUNGCrerhA9Y3pMr8XHhp1HbTaEyhdP4eQGXYIUg5N/UX2qV9N74vik9ZAYQ5kU6RwEU7w4nZR43MmmVlMYh9tdDCpSF9QJ1q4f357/95pMWvTDz6c1VCWV+GX/8ZsRce0t6qLPYE7EZDOom1i/pC84JvJGBBDGxxYC4dubDYk2usB+UmUo5AOSsvRJP6Jy/HPZzZ6/8IlozKSQiwnDi5N5aRarUpKnLz24vYsLq+1MQgsQZxVXGSsSc5dVNwV9fPAACuMf4m/JGlAzY+sTiruyVbaY/NVNIPjSM8lgism2FjFW7XU5Hg8xj06v2AD3UYE81eEUE+BcVORW6s4dujivM24kwkb4US9q8U8ZRznvf/hxm4k5Mrv6XCblRwWU4gkWmRpGloyQYBqQSULmf83/bQ4S0NR6EQz8KIMgY+3kTdni0tgBQEXLxFahR28/uZ220pWr8HYMOIya9Kb3sdj47XgK3ugWJ2f4sLpxpQhBhUv4lF1Qz12LklZCFHbleAya9cVhNTKmNnAw8s="
+  },
+  {
+    "product": "pdfRender",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "DD74l/p212BcWRr5y3PGTmEVUq5PQQejE2XYWeciOI5mctczAV6nYD53dpMOLOD0rWjgyqh5U3CUsGEivi7LW2d003q6wluNjCtmcc2vri5pffAIVP8z20+e8aQLpNyzuvWwDik+UjhxPiPm115T+I9E7M7l59XGo7XYFe7V3GJ73wQKCmGfiEu1NT30pUC1ExVBzeMDOp1x0ZDU7Tu1TYbSb6XwOVppxcNfc5CeEeH3Ot71gzbH6tGVqYsMQYOEGpLyMq8+5fnxbm6tR+AKrwypDK57BEtcEfmDsqRkqFB4my+LbVkuORKIU9lhPkC4aZJZEvz8FD23oAPIQobwIeuBk3g+46pRZ3SIP0ZemOpOr5fSfI/oRCPQnZ2jBxyT/7gHU53z1tkClEZpavNjdqiEWS4sVvnfJQ7DnAV0T7ADsmqbu2JvlYEyel0HeGYvxBhKI3R02gEP1zxXNZsRQkQEVpHDIHz7kEueDHiJoN5DJDulof6xJ0LSOYBBFnqKch13kROie/bnUSyK8dzaxHHMA6cCoyKR5/NEWGqCE3XQCBMYZEYoR9SfwvBZCJy16pJq2YkFk8nzdTOKger5olL4O9eomQTJSbIKWjgloCo41pQPJArWCnUI1I1SEOBD8rBmKkc15GxsQTPqOMY9ubH5XHas87iXAHIy+t3s4to="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "ifQvPwyFqFXaXw5T8OU7kiPj7hnnK+CO78GbYkZAbVcZyFWq7uUAucF6DmCFrd0KUM/2wm2pR2S2pi7UDIp8EPxqZVq8bS+GQL0jb57io0A1IjrwxAYYrUmNgxzzQIGgckPPdd1T9G9SIRZw39d8MhZNQn4HUXU8pG8TwvSECqz+vsbRTC5PH51D/YUMrwL4mZ7xutuRoSY6L6EICxANCOxR5xo/yKLdpTD1Rla+aTjX/+sU4TRxtNKEDT+W9z+hOLUE2RxUJU+CAI+GXB1y5GRuZkfUfC3LDKwfeUW1swxu7LOkJ2aWM+nWJ/G9iVSJ/hUqQGj5Yu+RBBIgHM9c7YZk2gp1J4iyT707ePp99m9T2VUXlx66mig06TbYXwkciq3AIKFbPX8jAdOZ1F7JasGgdi72hlYXwEzeCPTfnKBvQwA7JKMm1zq6fp9xUiVyEBYOUP6N5m3SxKPpanE+bRhDGV7MSmjjHk49fb8mfI8UgXAsv+yd7UrnxOwiCQhJJvuyXpsWkm4YSTegrekuX4NvzgR7HOTwDuaUDBtg2ZeAdgxzBhd9czp4ql7TECiT5XIZ1PVZRywmgyLK96T0tqw61bEhkWkc1e1hp3tKykXGQk7kFWu1QgOB1hTOmW2DUi+A6VELjEIXq0VljPHtrKoqQkEFGGXc0c+7ZAiGj10="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "LjzHvBhhyQCK+VrHQNkKzWK+4gVzPTMt76Gr62XFWJVPXdMGZcztnbu5aKh0P8DZnCfwfZsO5M9wFCxaM+Atgmluo8339xfmg/0ptfQ8PEBX02dYeRFQBQSeHClQ0WCKxGvaWaCdn4tjz8L1qG0Qk+ded63+0/6jbiohoJ8w3LNl8Y9eAXO5w84E/LkEEZRw1nxoMadF1jeaMv3gDAy2xC5cDERVi75ShAIi45Xwa1LU5x7sQR1PvRUHcRtHWFWja/wL2prUAAPO+9AgHfLmnyunDNChis02Lj/bo2/zdQnBQTLTM/QCvi8K4F77T3NB7HaNXRWYAxDYxn7enK/h6h6Q3B9hZI9hKqByhlB/HHjSt4HCKsWU6BxbZXoV/i/YxDkJbdrwQHWizeNADnIJzkXdSgGMqY6Rl8heXvIE6YIA7rXMZ0XG6padTirdy95tqa/n7dpyFO0uVnBGogn7Yx30f+0rh/ZqBXLB9Vjxb4CHMTPtcks/a+NDWSbLHkocfpUHX6dnTPufcyYQoULqgFD8X1Q1Hi56xBiJx2tGZvhCcO8HcXEurq2v5gL1HtQoU8SXaxLwoVRelImh+tTQQXMaoPb5CkTLk2KexNl1zO1jn5eHNAX3YAveX3adhErRCVsMTdcrQjiW3d3Xo6HGhu9YftuC5fu48uyT+hQw32k="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "TG5d1+WcU0XEmz6V8v5sHyHLkxF/To5YHbqmovmC+tcOW7bmLIraLKbrK74owkHdrR87gvA81ehHwe3ZXdCK1cN6OAchoMY7pNRLuJP7pN90bOo81ucZYblyPldNkpgPSijlS3dWv7iqh0FWJVcNmz7i1HZTV7HUxSIPkxo7d4Peld5d2oCYuFB5eecrTMQrGoysR1YXE0aeJ/cS9ge2lDhm58Uv4Lwgtwq5BzOfs3QTVD3RnmH7VKD4zIb+ljtTjbvPFJtul+Ev2ZrT4DskH6Rp6wi6wm7FuLnxRax5NNeLdl9DmN5Rv5TnzNANdK9D3efaouU2Y0s0lrNlBE4yUQgXLJL1Vxm0H64Na87m6Be1zHocmZr+3Y6liFj7N+UkpS4FK0Zhw0k2oulIGRtjNDcsDN3ksMjMLelJFnPrWgHISEc+jSFi/sdAXEZSRZ0Y4lSbFQvINDNgVaLNTwgGeJ4fvZDubzhPo7tKu3ms0+MkC8/Y2FY/FKaSJ4wC/ujWWIBiQkGrIr6bfUyfNbBbNoblgL3YOCp/WntEmV4+Ddv8pIpwumgqsRAL0+A2LcidQQnMYoHhmeBxM53oYwXc3wJMGnqovrdo2R0nXSSX3fi44OtqjzXIwDf38cIcNVV3kr8U60sefNjeZN4UWAXZ2LPhWU3ZffCG0lMB/NPrk8I="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "kV20hErqqV2KRr2Nj0BhCbVGRISCN7eb+MlCrSOdVaTHgSuKakeWpZzjpY1H2Yn20vuLmwlfQS02tdwFoZqE70oL9MN+Og9HMOXV+MBjiz6hjC1Q3uc9NXg8JLtmHBm8QMNS83qyt7dNno9x7iJvjtCxcXGpBnCMbaey52zYRGVQRSUI6CHwZwTAnq6mGINjZiEYTH4S6MkTKA0+/DjKAyfSp9Dos5hhW2vVDDwgtkezcLgQcEe+BZxyXTUdq1WTX0B8H/maHpPQ+qBoRqs00T5c9puFYwpJtdEzxVtAsfXO+ZuPV2NBE1OEpmhLZ2zRPV7QR8hAvJKtHyV3FYr3S1YFYAPs4QCFGGVVTfkAonGDABLoRPVS1WkismBveCRQYr7FvN1huGU7KrfTgGvugAVr5HelAhCL6uCNAVYn3vIsTfnA3bigTDLENf1Fr0/MbBHPOYN5P7mVTT9ELp+iYyRDnDCy2FgrbWRmsIbYzRigcYVbSWaBX3YInMnBeRYeJwJQHWYRmmiMiU6Kd8MQfhkjS145Ewbt9iufOYNuNAuvqmzkRxda6vZteBZMMZ+S3sR3TjbSSntRngRAbNaZX2+0T3it0Cje9eD09UAwBjbr/S+3bAldRRdk8LLz4iRkYpzKVIEvtOLZ14rKCSvMhCB+Rqvr0E/2fQNenXxfSLo="
+  },
+  {
+    "product": "pdfOffice",
+    "licensee": {
+      "company": "N/A",
+      "name": "John Doe",
+      "email": "allen.kim@ontariohealth.ca"
+    },
+    "key": "46ce890e86752653ef42dd95f8f433dd1fb5fe889026b5447dee15383122bc8d",
+    "creationDate": "2022-08-05",
+    "expirationDate": "2022-09-05",
+    "onExpiration": "grace",
+    "gracePeriod": "1d0h0m",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "CEwO6gFZAYWddYnqowZxqS2bQgyrsISKgW6eOG/TC80bQndMbREbtSwe5LDz0w4cD1lMpKMtfCUuuK5/66P61xLK+0aIJB8qXJuVm3AvbmHdv5xINk4fwg8xLp8m6wgnkmL38unUdzN1xET2VJrEwBWPWjZpLdCSkxKaPC+99Xzy/W2dbv9Rp5m+KUcvss/u6oJQZskAnsBfcbDZbVkDHluQYIMNoY7vDXs5q+merqE+5xK1AF2PJx0TIIc0MveAAYYdRPO93O2Aat6iEk0q6h5RUm9vj2VrSXWjxmOHgcMeKD/fH5S3gOkY4FotqOHDu5IiK8wIrwcywf8dL7UkA4kN1Re9yQvz/5I6jo0Y7egOQv1cQLAoES+TWRzJRLy88qbbTUcIPo33cGaQTWaiIytpqpjTnI5lCiOlKa94KhIoNJJ1FTB1+VUEwUBzhKDlMgn8WEDsMZtpbIwpKheLqpmyw0UfNMQG/ejvMFCy0D6QTJCKz5I379qhIYUa2NGe0hkQMJBkSZ0FMQwTzHLubx+idOYg+vlH5wBrUm3eP2MEPToujBqS34a8aRBar3ZErXWo85EqcVDljxfb/7B/5awFBfc/hqiunM08BBjJdt410a6o5qBdM7rKFlmn0gNgEENGDTqxfiKU8dCnnfLQm73zcFGi+42LvsUn2MGGRzE="
+  }
+]
