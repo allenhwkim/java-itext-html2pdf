@@ -10,10 +10,6 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
-import static com.jayway.restassured.RestAssured.given;
-import static com.jayway.restassured.RestAssured.when;
-import static org.hamcrest.CoreMatchers.is;
-
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = App.class)
 @WebAppConfiguration
@@ -30,18 +26,7 @@ public class HelloControllerTest {
 
     @Test
     public void testHello() throws Exception {
-        when().get("/").then()
-                .body(is("Hello Spring Boot World From Allen Kim!"));
+        // write your test here
     }
 
-    @Test
-    public void testCalc() throws Exception {
-        given().param("left", 100)
-                .param("right", 200)
-                .get("/calc")
-                .then()
-                .body("left", is(100))
-                .body("right", is(200))
-                .body("answer", is(300));
-    }
 }
