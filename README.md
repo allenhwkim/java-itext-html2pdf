@@ -11,8 +11,8 @@
 
 ## To Start
 ```
-$ git clone xxxx
-$ cd xxxx
+$ git clone https://github.com/allenhwkim/java-itext-html2pdf.git 
+$ cd java-itext-html2pdf
 $ # 
 $ mvn install
 $ mvn exec:java -Dexec.mainClass=App
