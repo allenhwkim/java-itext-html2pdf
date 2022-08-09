@@ -1,6 +1,6 @@
 ## Requirements
-1. Install JDK 1.8
-2. Install Maven 3.8
+1. Install JDK 1.8 (You might already have it installed)
+2. Install Maven 3.8 (https://phoenixnap.com/kb/install-maven-windows)
 3. set JAVA_HOME and PATH. The following is for GitBash
     ```
     $ cat ~/.bashrc
