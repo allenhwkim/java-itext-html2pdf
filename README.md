@@ -16,6 +16,6 @@ $ cd java-itext-html2pdf
 $ # 
 $ mvn install
 $ mvn exec:java -Dexec.mainClass=App
-$ mvn exec:java -Dexec.mainClass=App 
 $ # open a browser and visit http://localhost:8080
+$ # click "submit" button to see pdf generated from html
 ```
