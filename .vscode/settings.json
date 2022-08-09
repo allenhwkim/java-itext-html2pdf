@@ -11,5 +11,6 @@
 
   "java.project.referencedLibraries": [
     "lib/**/*.jar"
-  ]
+  ],
+  "maven.view": "hierarchical"
 }

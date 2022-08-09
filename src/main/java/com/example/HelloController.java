@@ -1,40 +1,27 @@
 package com.example;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.MediaType;
-import org.springframework.http.ResponseEntity;
-import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.util.Base64;
+import java.util.HashMap;
+import java.util.Map;
 
-import com.itextpdf.html2pdf.HtmlConverter;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
 import com.itextpdf.html2pdf.ConverterProperties;
+import com.itextpdf.html2pdf.HtmlConverter;
+
+class Request {
+    public String html;
+    Request() {}
+}
 
 @RestController
 public class HelloController {
-    @Autowired
-    NamedParameterJdbcTemplate jdbcTemplate;
-
-    @RequestMapping("/")
-    public ResponseEntity<byte[]> hello() {
-        try {
-            byte[] bytes = this.getPdf("<h1>Hello iText PDF</h1><b style='color:red'>Red</b>");
-            return ResponseEntity.ok()
-                .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=demo.pdf")
-                .contentType(MediaType.APPLICATION_OCTET_STREAM)
-                .body(bytes);
-        } catch(IOException e) {
-            e.printStackTrace();
-            System.out.println(e);
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(null);
-        }
-    }
-
 
     private byte[] getPdf(String html) throws IOException {
         ByteArrayOutputStream target = new ByteArrayOutputStream();
@@ -45,4 +32,15 @@ public class HelloController {
 
         return target.toByteArray();
     }
+
+    @RequestMapping( value = "/html2pdf", method = RequestMethod.POST )
+    public ResponseEntity<Object> helloPdf(@RequestBody Request req) throws Exception {
+        byte[] bytes = this.getPdf(req.html);
+        String base64String = Base64.getEncoder().encodeToString(bytes);
+
+        Map<String, Object> map = new HashMap<String, Object>();
+        map.put("base64", base64String);
+        return ResponseEntity.ok().body(map);
+    }
+
 }
