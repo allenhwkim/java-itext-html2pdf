@@ -13,9 +13,9 @@
 ```
 $ git clone xxxx
 $ cd xxxx
+$ # 
 $ mvn install
 $ mvn exec:java -Dexec.mainClass=App
-$ visit http://localhost:8080
-
 $ mvn exec:java -Dexec.mainClass=App 
+$ # open a browser and visit http://localhost:8080
 ```
