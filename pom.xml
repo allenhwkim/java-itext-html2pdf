@@ -24,7 +24,22 @@
         <rest.assured.version>2.3.3</rest.assured.version>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>dito</id>
+            <name>DITO Repository</name>
+            <url>https://repo.itextsupport.com/dito</url>
+        </repository>
+    </repositories>
+
     <dependencies>
+
+        <dependency>
+            <groupId>com.itextpdf.dito</groupId>
+            <artifactId>sdk-java</artifactId>
+            <version>2.1.7</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.itextpdf/itext7-core -->
         <dependency>
             <groupId>com.itextpdf</groupId>
